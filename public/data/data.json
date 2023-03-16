@@ -1,0 +1,22 @@
+[
+            {
+                "id":"0",
+                "text":"This is notes in tab1",
+                "name":"Notes"
+            },
+            {
+                    "id":"1",
+                    "text":"This is notes in tab2",
+                    "name":"Notes"   
+            },      
+            {
+                "id":"2",
+                "text":"This is risks in tab1",
+                "name":"risks"
+            },
+            {
+                    "id":"3",
+                    "text":"This is risks in tab2",
+                    "name":"risks"   
+            }
+]
